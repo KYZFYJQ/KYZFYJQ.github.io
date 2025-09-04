@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>KYZFYJQ的小站</title>
+        <link>https://valaxy.site/</link>
+        <description>我喜欢你</description>
+        <lastBuildDate>Thu, 04 Sep 2025 15:37:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>KYZFYJQ的小站</title>
+            <url>https://img.cdn1.vip/i/68b9ad963e7fc_1756999062.webp</url>
+            <link>https://valaxy.site/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © KYZFYJQ</copyright>
+        <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2025家中随笔]]></title>
+            <link>https://valaxy.site/posts/2025.8.15家中随笔</link>
+            <guid isPermaLink="false">https://valaxy.site/posts/2025.8.15家中随笔</guid>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>我总是患得患失，莫名其妙的。想要某个东西，得到之后便不珍惜；本就拥有的，拥有久了就会忘记它的珍贵价值，在最后感到要失去它的时候才能够明白它的不可替代，故而患得患失。</p>
+<p>刚刚和我妈吵架了，具体的原</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/2025.8.15家中随笔" target="_blank">https://valaxy.site/posts/2025.8.15家中随笔</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (KYZFYJQ)</author>
+        </item>
+        <item>
+            <title><![CDATA[Hello, Valaxy!]]></title>
+            <link>https://valaxy.site/posts/hello-valaxy</link>
+            <guid isPermaLink="false">https://valaxy.site/posts/hello-valaxy</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/hello-valaxy" target="_blank">https://valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (KYZFYJQ)</author>
+        </item>
+    </channel>
+</rss>

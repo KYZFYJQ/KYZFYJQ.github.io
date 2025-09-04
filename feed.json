@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "KYZFYJQ的小站",
+    "home_page_url": "https://valaxy.site/",
+    "feed_url": "https://valaxy.site/feed.json",
+    "description": "我喜欢你",
+    "icon": "https://img.cdn1.vip/i/68b9ad963e7fc_1756999062.webp",
+    "author": {
+        "name": "KYZFYJQ",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://valaxy.site/posts/2025.8.15家中随笔",
+            "content_html": "<p>我总是患得患失，莫名其妙的。想要某个东西，得到之后便不珍惜；本就拥有的，拥有久了就会忘记它的珍贵价值，在最后感到要失去它的时候才能够明白它的不可替代，故而患得患失。</p>\n<p>刚刚和我妈吵架了，具体的原</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/2025.8.15家中随笔\" target=\"_blank\">https://valaxy.site/posts/2025.8.15家中随笔</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/2025.8.15家中随笔",
+            "title": "2025家中随笔",
+            "date_modified": "2025-08-15T00:00:00.000Z",
+            "date_published": "2025-08-15T00:00:00.000Z",
+            "author": {
+                "name": "KYZFYJQ",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://valaxy.site/posts/hello-valaxy",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/hello-valaxy\" target=\"_blank\">https://valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "KYZFYJQ",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

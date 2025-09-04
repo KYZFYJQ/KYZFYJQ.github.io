@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://valaxy.site/</id>
+    <title>KYZFYJQ的小站</title>
+    <updated>2025-09-04T15:37:46.577Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>KYZFYJQ</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://valaxy.site/"/>
+    <link rel="self" href="https://valaxy.site/atom.xml"/>
+    <subtitle>我喜欢你</subtitle>
+    <logo>https://img.cdn1.vip/i/68b9ad963e7fc_1756999062.webp</logo>
+    <icon>https://valaxy.site/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © KYZFYJQ</rights>
+    <entry>
+        <title type="html"><![CDATA[2025家中随笔]]></title>
+        <id>https://valaxy.site/posts/2025.8.15家中随笔</id>
+        <link href="https://valaxy.site/posts/2025.8.15家中随笔"/>
+        <updated>2025-08-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>我总是患得患失，莫名其妙的。想要某个东西，得到之后便不珍惜；本就拥有的，拥有久了就会忘记它的珍贵价值，在最后感到要失去它的时候才能够明白它的不可替代，故而患得患失。</p>
+<p>刚刚和我妈吵架了，具体的原</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/2025.8.15家中随笔" target="_blank">https://valaxy.site/posts/2025.8.15家中随笔</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>KYZFYJQ</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-08-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>https://valaxy.site/posts/hello-valaxy</id>
+        <link href="https://valaxy.site/posts/hello-valaxy"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/hello-valaxy" target="_blank">https://valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>KYZFYJQ</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-04-01T00:00:00.000Z</published>
+    </entry>
+</feed>
